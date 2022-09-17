@@ -4,7 +4,12 @@
 - [DFS](#dfs)
 - [Binary Search](#binary-search)
 - [Sliding Window](#sliding-window)
+- [(TODO) TREE](#todo-tree)
+- [(TODO) Linked List](#todo-linked-list)
+- [(TODO) Unin Find](#todo-unin-find)
+- [(TODO) LRC Cache](#todo-lrc-cache)
 - [Misc](#misc)
+  - [(TODO) Intervals](#todo-intervals)
   - [NSum](#nsum)
 
 # Dynamic Programing
@@ -15,6 +20,7 @@
 - [122.买卖股票的最佳时机-ii](122.买卖股票的最佳时机-ii.go)
 - [123.买卖股票的最佳时机-iii](123.买卖股票的最佳时机-iii.go)
 - [188.买卖股票的最佳时机-iv](188.买卖股票的最佳时机-iv.go)
+- [309.最佳买卖股票时机含冷冻期](309.最佳买卖股票时机含冷冻期.go)
 
 # Backtrack
 
@@ -42,7 +48,15 @@
 - [438.找到字符串中所有字母异位词](438.找到字符串中所有字母异位词.go)
 - [3.无重复字符的最长子串](3.无重复字符的最长子串.go)
 
+# (TODO) TREE
+# (TODO) Linked List
+
+# (TODO) Unin Find
+
+# (TODO) LRC Cache
 # Misc
+
+## (TODO) Intervals
 
 ## NSum
 
