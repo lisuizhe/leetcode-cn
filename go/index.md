@@ -6,7 +6,7 @@
 - [DFS](#dfs)
 - [Binary Search](#binary-search)
 - [Sliding Window](#sliding-window)
-- [(TODO) TREE](#todo-tree)
+- [TREE](#tree)
 - [(TODO) Linked List](#todo-linked-list)
 - [(TODO) Unin Find](#todo-unin-find)
 - [(TODO) LRC Cache](#todo-lrc-cache)
@@ -54,7 +54,9 @@
 - [438.找到字符串中所有字母异位词](438.找到字符串中所有字母异位词.go)
 - [3.无重复字符的最长子串](3.无重复字符的最长子串.go)
 
-# (TODO) TREE
+# TREE
+
+- [104.二叉树的最大深度](104.二叉树的最大深度.go)
 # (TODO) Linked List
 
 # (TODO) Unin Find
