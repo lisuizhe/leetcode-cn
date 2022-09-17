@@ -1,3 +1,5 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Dynamic Programing](#dynamic-programing)
 - [Backtrack](#backtrack)
 - [BFS](#bfs)
