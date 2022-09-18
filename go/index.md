@@ -6,11 +6,11 @@
 - [DFS](#dfs)
 - [Binary Search](#binary-search)
 - [Sliding Window](#sliding-window)
-- [TREE](#tree)
+- [Tree](#tree)
 - [Linked List](#linked-list)
 - [Array](#array)
 - [(TODO) Unin Find](#todo-unin-find)
-- [(TODO) LRC Cache](#todo-lrc-cache)
+- [Cache](#cache)
 - [Misc](#misc)
   - [(TODO) Intervals](#todo-intervals)
   - [NSum](#nsum)
@@ -57,7 +57,7 @@
 - [438.找到字符串中所有字母异位词](438.找到字符串中所有字母异位词.go)
 - [3.无重复字符的最长子串](3.无重复字符的最长子串.go)
 
-# TREE
+# Tree
 
 - [104.二叉树的最大深度](104.二叉树的最大深度.go)
 - [669.修剪二叉搜索树](669.修剪二叉搜索树.go)
@@ -86,7 +86,10 @@
 
 # (TODO) Unin Find
 
-# (TODO) LRC Cache
+# Cache
+
+- [146.lru-缓存](146.lru-缓存.go)
+
 # Misc
 
 ## (TODO) Intervals
