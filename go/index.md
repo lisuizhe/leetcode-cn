@@ -8,6 +8,7 @@
 - [Sliding Window](#sliding-window)
 - [TREE](#tree)
 - [Linked List](#linked-list)
+- [Array](#array)
 - [(TODO) Unin Find](#todo-unin-find)
 - [(TODO) LRC Cache](#todo-lrc-cache)
 - [Misc](#misc)
@@ -73,6 +74,10 @@
 - [141.环形链表](141.环形链表.go)
 - [142.环形链表-ii](142.环形链表-ii.go)
 - [160.相交链表](160.相交链表.go)
+
+# Array
+
+- [26.删除有序数组中的重复项](26.删除有序数组中的重复项.go)
 
 # (TODO) Unin Find
 
