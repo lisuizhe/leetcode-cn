@@ -7,7 +7,7 @@
 - [Binary Search](#binary-search)
 - [Sliding Window](#sliding-window)
 - [TREE](#tree)
-- [(TODO) Linked List](#todo-linked-list)
+- [Linked List](#linked-list)
 - [(TODO) Unin Find](#todo-unin-find)
 - [(TODO) LRC Cache](#todo-lrc-cache)
 - [Misc](#misc)
@@ -63,7 +63,9 @@
 - [94.二叉树的中序遍历](94.二叉树的中序遍历.go)
 - [543.二叉树的直径](543.二叉树的直径.go)
 
-# (TODO) Linked List
+# Linked List
+
+- [21.合并两个有序链表](21.合并两个有序链表.go)
 
 # (TODO) Unin Find
 
