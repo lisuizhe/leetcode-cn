@@ -89,6 +89,7 @@
 # Cache
 
 - [146.lru-缓存](146.lru-缓存.go)
+- [460.lfu-缓存](460.lfu-缓存.go)
 
 # Misc
 
